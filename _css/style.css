@@ -1,0 +1,181 @@
+#movelmenu ul li a {
+    color:#FFFAF0;
+    font-family:'Roboto Slab', serif;
+    font-size:1.3em;
+}
+#movelmenu ul li a:hover {
+    background-color:#333333;
+}
+#home{
+    background-image: url("../_img/foto04.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    background-attachment:fixed;
+    width:100%;
+    height:99%;
+}
+h1{
+    color:#FFFAF0;
+    margin-top:26%;
+    margin-left:5%;
+    font-family:'Roboto Slab', serif;
+}
+#menu{
+    width:100%;
+}
+
+h2.text-center{
+    margin-top:14%;
+    font-family:'Roboto Slab', serif;
+    
+}
+p.text-center{
+    width:40%;
+    margin-left:30%;
+    margin-top:5%;
+    margin-bottom:5%;
+    font-family:'Roboto Slab', serif;
+    font-size: 1.2em;
+}
+.menu ul li{
+  font-family:'Roboto Slab', serif;
+  font-size: 1.2em;
+  margin-left:31%;
+}
+.foto{
+margin-top:5%;
+margin-left:18%;}
+.foto img{
+    width:80%;
+    margin-bottom:10%;
+    margin-top:5%;
+}
+.image{
+    background-image: url("../_img/foto02.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    background-attachment:fixed;
+    width:100%;
+    height:90%;
+}
+#prenotazioni{
+    background-image:url("../_img/foto03.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    width:100%;
+}
+main div#formulario {
+    width:50%;
+    margin:50px auto 30px;
+    float:left;
+    margin-top:5%;
+}
+main div#formulario form {
+    width:70%;
+    margin:10px auto;
+}
+form label {
+    display: block;
+    font-family:'Roboto Slab', serif;
+    font-size:1.3em;
+    font-weight:100;
+    margin-bottom: 3px;
+    color:#FFFAF0;    
+}
+form input[type="text"] {
+    width:170%;
+    padding:10px;
+    border:1px solid #CDC99B;
+    border-radius: 5px;
+    outline: none;
+    margin-bottom:25px;
+}
+form input[type="tel"] {
+    width:170%;
+    padding:10px;
+    border:1px solid #CDC99B;
+    border-radius: 5px;
+    outline: none;
+    margin-bottom: 25px;
+}
+form input[type="date"] {
+    width:170%;
+    padding:10px;
+    border:1px solid #CDC99B;
+    border-radius: 5px;
+    outline: none;
+    margin-bottom: 25px;
+}
+form input[type="email"] {
+    width:170%;
+    padding:10px;
+    border:1px solid #CDC99B;
+    border-radius: 5px;
+    outline: none;
+    margin-bottom: 25px;
+}
+form input[type="number"] {
+    width:60px;
+    padding:10px;
+    border:1px solid #CDC99B;
+    border-radius: 5px;
+    outline: none;
+    margin-bottom: 25px;
+}
+form input[type="submit"] {
+    display: block;
+    padding:10px 20px;
+    margin-top:15px;
+    color: #FFF;
+    border:0;
+    border-radius: 5px;
+    background-color:#a6a6a6;
+    outline: none;
+    cursor: pointer;
+}
+form input[type="submit"]:hover{
+ -webkit-transform: scale(1.3);
+        -ms-transform: scale(1.3);
+        transform: scale(1.3);   
+}
+main div#formulario form p {
+    font-family: 'Roboto Slab', serif;
+    font-size:1.1em;
+    font-weight: 300;
+    background:#a6a6a6;
+    color:#FFF;
+    padding:1%;
+    border-radius:5px;
+    text-align:center;
+    margin-top:2%;
+}
+
+#contatto{
+  padding:2%;
+  background-color:#0d0d0d;
+  width:100%;
+}
+h4{
+ text-decoration: underline;
+ width:20%;
+ font-family:'Roboto Slab', serif;
+ color:#FFFAF0;
+}
+h5{
+   width:20%;
+   font-family:'Roboto Slab', serif;
+   color:#FFFAF0;  
+}
+#contatto img{
+  float:right;
+  margin-top:-8%;
+  margin-right:10%;
+  width:8%;
+}
+#contatto img:hover{
+   -webkit-transform: scale(1.3);
+        -ms-transform: scale(1.3);
+        transform: scale(1.3);
+}
